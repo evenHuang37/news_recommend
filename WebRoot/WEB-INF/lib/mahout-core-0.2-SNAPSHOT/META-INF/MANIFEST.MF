@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_13
+Specification-Title: Mahout core
+Specification-Version: 0.2-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Mahout core
+Implementation-Version: 0.2-SNAPSHOT
+Implementation-Vendor-Id: org.apache.mahout
+Implementation-Vendor: The Apache Software Foundation
+Built-By: 
+Extension-Name: org.apache.mahout
+url: http://lucene.apache.org/mahout
+

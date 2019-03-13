@@ -1,0 +1,129 @@
+BODY {
+	FONT-SIZE: 8pt; COLOR: #526ba5; FONT-FAMILY: Arial
+}
+H3 {
+	COLOR: #526ba5
+}
+H4 {
+	COLOR: #526ba5
+}
+.Issue {
+	BACKGROUND-COLOR: #c6c6ce
+}
+.NormalField {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: red; FONT-FAMILY: Verdana;BACKGROUND-COLOR: #ffffff
+}
+.NormalFieldTwo {
+	FONT-SIZE: 10pt;
+	COLOR: Red;
+	FONT-FAMILY: Verdana;
+	background : #E4E4E4;
+	font-weight : bold
+}
+.NormalFieldThree {
+	FONT-SIZE: 10pt;
+	COLOR: Yellow;
+	FONT-FAMILY: Verdana;
+	background : #0C79B4;
+	font-weight : bold;
+	text-align : center;
+}
+
+.NormalFieldFour {
+	FONT-SIZE: 10pt;
+	COLOR: Yellow;
+	FONT-FAMILY: Verdana;
+	background : Black;
+	font-weight : bold;
+	text-align : center;
+}
+.NormalFieldFive {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 10pt;
+	COLOR: Navy;
+	FONT-FAMILY: Verdana;
+	BACKGROUND-COLOR: #ffffff
+}
+.NormalFieldSix {
+		FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #526ba5; FONT-FAMILY: Arial
+}
+
+.TableText {
+	FONT-SIZE: 8pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+.TableBorder{
+	border-color : Black;
+}
+.NormalTable {
+	BACKGROUND-COLOR: #ffffff
+}
+.NormalTableTwo {
+	BACKGROUND-COLOR: #eeeeee
+}
+.UsePageBG {
+	BACKGROUND-COLOR: #cccccc
+}
+.UseTableBG {
+	BACKGROUND-COLOR: #526ba5
+}
+.UseDialogBG {
+	BACKGROUND-IMAGE: url(../Graphics/Images/DialogBackGround.gif)
+}
+.ReadOnlyField {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #526000; FONT-FAMILY: Arial
+}
+.InternalHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: Arial; BACKGROUND-COLOR: #526ba5;
+}
+.AttachedFiles {
+	BACKGROUND-COLOR: #99ccff;
+	color : Black
+}
+.SpecialAnchor {
+	FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+UNKNOWN {
+	FONT-WEIGHT: lighter; FONT-SIZE: 8pt; TEXT-TRANSFORM: capitalize; COLOR: navy; FONT-STYLE: normal; FONT-FAMILY: 'Arial', Times New Roman, Verdana; FONT-VARIANT: normal; TEXT-DECORATION: underline
+}
+.SearchResults {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.MandatoryFields {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #ff0000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.tab-above-heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+.textareaLabel {
+	FONT-WEIGHT: bolder; FONT-SIZE: 10pt; COLOR: #526ba5; FONT-FAMILY: Arial
+}
+.linkStyle {
+	TEXT-DECORATION: none
+}
+.PageTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: #526ba5; FONT-FAMILY: Tahoma
+}
+.smallfont {
+	FONT-SIZE: 7.5pt; COLOR: #000000; FONT-FAMILY: Arial
+}
+
+  
+  table {   
+            border: 1px solid #B1CDE3;   
+            padding:0;    
+            margin:0 auto;   
+            border-collapse: collapse;   
+        }   
+           
+        td {   
+            border: 1px solid #B1CDE3;   
+            background: #fff;   
+            font-size:12px;   
+            padding: 3px 3px 3px 8px;   
+            color: #4f6b72;   
+        } 
+        
+        
+a{　display: block;　border: 1px solid;　border-color: #aaa #000 #000 #aaa;　width: 3em;　background: #fc0;　}
+
+a:hover{　position: relative;　top: 1px;　left: 1px;　border-color: #000 #aaa #aaa #000;　}
